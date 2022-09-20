@@ -1,0 +1,33 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ configNamalskEvent\script_2022-09-19_23-52-19.log started at 19.09. 23:52:20
+
+SCRIPT       : Registered 320 temporary action enum(s), UAN==320
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : DZM_Projects Map! by DaOne
+SCRIPT    (E): @"scripts/4_World/entities\firearms\weapon_base.c,581": Variable 'weaponType' is private
+SCRIPT    (W): @"PVEZ/4_World/entities\manbase\playerbase.c,182": No need to use 'Cast' for up-casting
+SCRIPT       : [dzr_disinfect_by_boiling] ::: Starting Serverside
+SCRIPT       : PVEZ :: Will use config files in  configNamalskEvent
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 889 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [Logout]: New player OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= with logout time 15
+SCRIPT       : [emote] SurvivorM_Mirek:01 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= finished
+SCRIPT       : ~DayZGame()

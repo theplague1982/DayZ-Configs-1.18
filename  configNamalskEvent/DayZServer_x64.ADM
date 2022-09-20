@@ -1,0 +1,82 @@
+
+
+******************************************************************************
+AdminLog started on 2022-09-19 at 23:46:03
+23:46:48 | Player "ThePlague1982" is connected (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=)
+23:50:43 | Player "ThePlague1982"(id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-19 at 23:52:18
+23:53:01 | Player "ThePlague1982" is connected (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=)
+23:53:44 | [COT] 76561199055119791: Updated roles [guid=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=]
+23:54:11 | Player "ThePlague1982"(id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-19 at 23:59:22
+00:00:16 | Player "ThePlague1982" is connected (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=)
+00:05:52 | [COT] 76561199055119791: Teleported to position <6220.369629, 21.010000, 9393.253906>
+00:06:21 | [COT] 76561199055119791: Teleported to position <4291.625977, 70.641777, 8076.761719>
+00:06:35 | [COT] 76561199055119791: Teleported to position <4267.458984, 77.563835, 8092.089844>
+00:08:07 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<4314.4, 8085.2, 78.6>)[HP: 74.9603] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+00:08:08 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<4313.9, 8085.2, 78.6>)[HP: 72.8003] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+00:13:51 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<4290.7, 8085.9, 78.4>)[HP: 79.1999] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+00:13:52 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<4290.6, 8085.2, 78.4>)[HP: 77.5124] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieMale)
+00:32:07 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<4504.6, 8206.5, 86.9>)[HP: 89.6122] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+00:38:58 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<4302.9, 8109.2, 77.7>)[HP: 34.6787] hit by FallDamage
+00:39:17 | [COT] 76561199055119791: Healed [guid=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=]
+00:40:03 | [COT] 76561199055119791: Teleported to position <4145.981445, 386.097473, 6554.519531>
+00:42:37 | [COT] 76561199055119791: Teleported to position <5991.811523, 22.060900, 6551.367188>
+00:43:04 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<5985.2, 6659.3, 17.1>)[HP: 97.75] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+00:43:18 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<5982.7, 6658.2, 17.5>)[HP: 97.2001] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+00:47:01 | [COT] 76561199055119791: Teleported to position <3424.473145, 215.989166, 6729.412109>
+00:51:56 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<3426.4, 6752.4, 216.0>)[HP: 98] hit by Wolf into LeftArm(22) for 20 damage (MeleeWolf)
+01:11:33 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<3413.7, 6716.5, 216.4>) is unconscious
+01:12:03 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<3412.9, 6716.8, 216.4>) regained consciousness
+01:14:56 | [COT] 76561199055119791: Teleported to position <11933.099609, 2.897565, 11990.243164>
+01:20:15 | [COT] 76561199055119791: Teleported to position <5995.309570, 20.187506, 6594.439453>
+01:20:26 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<5978.3, 6614.2, 20.8>)[HP: 91] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+01:21:42 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<5994.9, 6631.0, 28.4>)[HP: 91.0007] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+01:21:43 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<5994.6, 6628.5, 28.4>)[HP: 90.0007] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+01:21:52 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<5993.5, 6634.7, 37.5>)[HP: 81.2708] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+01:22:28 | [COT] 76561199055119791: Teleported to position <7219.187988, 83.420830, 7983.343750>
+01:28:39 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<7291.0, 7991.7, 84.8>)[HP: 86.6744] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieMale)
+01:29:40 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<7280.5, 7982.0, 84.8>)[HP: 88.3329] hit by Infected into Block(-1) for 0 damage 
+01:29:42 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<7281.7, 7982.2, 85.3>)[HP: 86.6454] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieFemale)
+01:36:22 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<7291.4, 7961.2, 84.5>)[HP: 67.3426] hit by FallDamage
+01:36:44 | [COT] 76561199055119791: Set GodMode To true [guid=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=]
+01:36:49 | [COT] 76561199055119791: Healed [guid=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=]
+01:36:52 | Player "ThePlague1982" (id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= pos=<7290.4, 7960.1, 84.5>)[HP: 67.9816] hit by Infected into Block(-1) for 0 damage 
+01:37:18 | [COT] 76561199055119791: Set Broken Legs To false [guid=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=]
+01:37:22 | [COT] 76561199055119791: Healed [guid=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=]
+01:37:27 | [COT] 76561199055119791: Set Broken Legs To true [guid=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=]
+01:37:31 | [COT] 76561199055119791: Set GodMode To false [guid=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=]
+01:37:48 | [COT] 76561199055119791: Healed [guid=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=]
+01:40:22 | [COT] 76561199055119791: Teleported to position <4972.979492, 45.654259, 6653.486816>
+01:44:19 | [COT] 76561199055119791: Spawned Entity Tactical Helmet (Mich2001Helmet<ca7748d0>, -1, 80) at <4991.371094, 42.100517, 6625.980957>
+01:45:21 | [COT] 76561199055119791: Spawned Entity 9V Battery (Battery9V<d4375700>, 50, 20) at <4990.228516, 42.144768, 6626.280762>
+01:45:21 | [COT] 76561199055119791: Spawned Entity 9V Battery (Battery9V<d437e000>, 50, 20) at <4990.228516, 42.144768, 6626.280762>
+01:45:22 | [COT] 76561199055119791: Spawned Entity 9V Battery (Battery9V<ce1a77d0>, 50, 20) at <4990.228516, 42.144768, 6626.280762>
+01:45:22 | [COT] 76561199055119791: Spawned Entity 9V Battery (Battery9V<ce1b00d0>, 50, 20) at <4990.228516, 42.144768, 6626.280762>
+01:45:22 | [COT] 76561199055119791: Spawned Entity 9V Battery (Battery9V<ce1aab30>, 50, 20) at <4990.228516, 42.144768, 6626.280762>
+01:45:22 | [COT] 76561199055119791: Spawned Entity 9V Battery (Battery9V<ce1b5f00>, 50, 20) at <4990.228516, 42.144768, 6626.280762>
+01:45:22 | [COT] 76561199055119791: Spawned Entity 9V Battery (Battery9V<ce1990a0>, 50, 20) at <4990.228516, 42.144768, 6626.280762>
+01:45:23 | [COT] 76561199055119791: Spawned Entity 9V Battery (Battery9V<ce199930>, 50, 20) at <4990.228516, 42.144768, 6626.280762>
+02:00:31 | [COT] 76561199055119791: Spawned Entity Weapon Bag (Black) (CS_WeaponBag_Black<ca766f50>, -1, 500) at <4976.890625, 32.270744, 6625.003906>
+02:00:35 | [COT] 76561199055119791: Spawned Entity Gun Cleaning Kit (WeaponCleaningKit<a76700a0>, 100, 100) at <4976.890625, 32.270744, 6625.003906>
+02:04:29 | [COT] 76561199055119791: Spawned Entity Tactical Belt (MilitaryBelt<d48c3520>, -1, 100) at <4976.890625, 32.270752, 6625.003906>
+02:04:39 | [COT] 76561199055119791: Spawned Entity Holster (PlateCarrierHolster<d48cc620>, -1, 100) at <4977.273438, 32.999237, 6622.305664>
+02:04:42 | [COT] 76561199055119791: Spawned Entity Holster (dzn_platecarrierholster_nac<d27c6f50>, -1, 100) at <4977.273438, 32.999237, 6622.305664>
+02:05:07 | [COT] 76561199055119791: Spawned Entity Tactical Belt (MilitaryBelt<d0434d10>, -1, 100) at <4977.273438, 33.153622, 6622.305664>
+02:07:25 | [COT] 76561199055119791: Spawned Entity Combat Gloves (OMNOGloves_Brown<ca77fe10>, -1, 180) at <4976.645996, 32.270741, 6623.836426>
+02:08:04 | [COT] 76561199055119791: Spawned Entity Assault Boots (MilitaryBoots_Bluerock<d072f470>, -1, 180) at <4976.645996, 32.270741, 6623.836914>
+02:09:44 | [COT] 76561199055119791: Spawned Entity Sumrak jacket (dzn_sumrak_up_coldw<d2c07eb0>, -1, 130) at <4976.645996, 32.270741, 6623.836914>
+02:09:50 | [COT] 76561199055119791: Spawned Entity Sumrak pants (dzn_sumrak_pants_coldw<d0f16950>, -1, 130) at <4976.645996, 32.270741, 6623.836914>
+02:10:09 | [COT] 76561199055119791: Spawned Entity Assault Vest (dzn_smershvest_white<d0f1a8c0>, -1, 110) at <4976.645996, 32.270741, 6623.836914>
+02:10:19 | [COT] 76561199055119791: Spawned Entity Utility Buttpack (dzn_smershbackpack_white<d27dac80>, -1, 100) at <4976.645996, 32.270741, 6623.836914>
+02:13:42 | [COT] 76561199055119791: Spawned Entity Nailed Bat (NailedBaseballBat<cea2bcd0>, -1, 250) at <4976.647461, 32.270741, 6623.838379>
+02:14:25 | [COT] 76561199055119791: Spawned Entity Tire Repair Kit (TireRepairKit<d1098f50>, 100, 100) at <4976.647461, 32.270741, 6623.838379>
+02:14:28 | [COT] 76561199055119791: Spawned Entity Leather Sewing Kit (LeatherSewingKit<d109a900>, 100, 100) at <4976.647461, 32.270741, 6623.838379>
+02:14:39 | [COT] 76561199055119791: Spawned Entity Gun Cleaning Kit (WeaponCleaningKit<d10a5cd0>, 100, 100) at <4976.647461, 32.270741, 6623.838379>
+02:16:49 | Player "ThePlague1982"(id=OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4=) has been disconnected

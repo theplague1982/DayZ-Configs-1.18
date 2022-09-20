@@ -1,0 +1,58 @@
+[
+    {
+        "Type": 0,
+        "Name": "Athena 2",
+        "X": 4319.0,
+        "Z": 8103.0,
+        "Radius": 250,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "BK-L01",
+        "X": 4190.0,
+        "Z": 6649.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "BK-LO2",
+        "X": 3418.0,
+        "Z": 6713.0,
+        "Radius": 68,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Hospital",
+        "X": 7289.0,
+        "Z": 7968.0,
+        "Radius": 100,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    }
+]
