@@ -1,0 +1,5040 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ configYiprit\script_2022-08-04_22-33-47.log started at 04.08. 22:33:47
+
+SCRIPT       : Registered 316 temporary action enum(s), UAN==316
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : DZM_Projects Map! by DaOne
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<25b74640> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1052266
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<25b6e1a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1052281
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<448b1220> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1052299
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<5aa09330> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1052354
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<25b75a60> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1052363
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh43Shotgun<5aa24180> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Izh43Shotgun'
+Entity id:1052424
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<5aa2d0f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1052439
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<25b796c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1052507
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<85935960> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1052528
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<8592fed0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1052547
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<85931d00> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1052566
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mosin9130<858cb4b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mosin9130'
+Entity id:1052592
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<858c5510> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1052596
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<859308e0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1052612
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<85933b30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1052642
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<858ddd20> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1052684
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<85932710> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1052722
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AugShort<858e0360> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AugShort'
+Entity id:1052726
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad SKS_Base<85f169c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'SKS_Base'
+Entity id:1052797
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<85f16030> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1052806
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<85933120> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1052825
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): Division by zero
+Class:      'TerritoryFlag'
+Entity id:1052829
+
+Function: 'CheckLoadedVariables'
+Stack trace:
+scripts/4_World/entities\itembase\basebuildingbase\totem.c:533
+scripts/4_World/entities\itembase\basebuildingbase\totem.c:139
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<85937790> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1052843
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<85edf070> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1052861
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<85936370> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1052868
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<85ee3360> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1052869
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<859381a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1052877
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<85934540> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1052920
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FAMAS<85ef3590> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FAMAS'
+Entity id:1052923
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<8593d220> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1052941
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ61_Base<85ef0f50> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ61_Base'
+Entity id:1052942
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<8593dc30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1052969
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<85efd820> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1052970
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<892006b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1053052
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<8593f050> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1053073
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<892108e0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1053116
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<8593e640> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1053156
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<85938bb0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1053159
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<85940470> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1053188
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MP5K_Base<8921f7f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MP5K_Base'
+Entity id:1053194
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<85942cb0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1053222
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<89224470> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1053237
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<859436c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1053246
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<8922ca50> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1053279
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<89230d40> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1053317
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<8922e700> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1053328
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<859440d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1053330
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<89232060> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1053332
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<85945f00> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1053358
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<89989020> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1053412
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<85944ae0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1053421
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad VSS<899902e0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'VSS'
+Entity id:1053454
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<859454f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1053464
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<89992920> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1053499
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<8999ded0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1053570
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MKII_Base<85946910> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MKII_Base'
+Entity id:1053573
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<899a0ea0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1053611
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<85947320> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1053664
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<899afdb0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1053714
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<899b10d0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1053739
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<899b2d80> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1053815
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<85947d30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1053904
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<859422a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1053914
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<899bf650> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1053929
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<899bd010> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1053958
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<8ce3a070> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1053978
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<85940e80> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1053988
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<85948740> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1053992
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<85941890> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1053999
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh43Shotgun<8ce3e360> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Izh43Shotgun'
+Entity id:1054010
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<8ce42650> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1054026
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<8ce48f80> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1054085
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MP5K_Base<8ce472d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MP5K_Base'
+Entity id:1054122
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<8ce44c90> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1054125
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad LongHorn<8ce49910> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'LongHorn'
+Entity id:1054136
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Engraved1911<8594c3a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Engraved1911'
+Entity id:1054233
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<8ce55850> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1054243
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mosin9130<8ce53210> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mosin9130'
+Entity id:1054261
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<8594f5f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1054279
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<8594d7c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1054289
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<8ce5b7f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1054329
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<8ce57e90> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1054363
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<8ce5e7c0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1054372
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<8594cdb0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1054457
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<8ce67730> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1054463
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<8ce68a50> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1054483
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<8594e1d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1054503
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<8ce6b090> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1054512
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh18_Base<8ce6e060> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Izh18_Base'
+Entity id:1054550
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MP5K_Base<8ce706a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MP5K_Base'
+Entity id:1054593
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<8594a570> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1054616
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKM_Base<8ce6a700> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKM_Base'
+Entity id:1054647
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<8ce76640> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1054657
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad UMP45_Base<8ce72ce0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'UMP45_Base'
+Entity id:1054664
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ61_Base<8ce77960> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ61_Base'
+Entity id:1054690
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Aug<8ce75cb0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Aug'
+Entity id:1054697
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MP5K_Base<8ce74990> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MP5K_Base'
+Entity id:1054708
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<8ce75320> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1054715
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK101<8ce76fd0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK101'
+Entity id:1054717
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<8ce78c80> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1054727
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<8594af80> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1054783
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<8d8bd120> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1054817
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<8d8c0a80> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1054840
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<8594ebe0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1054853
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<8d8bdab0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1054864
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<8d8bb470> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1054876
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<8d8c00f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1054895
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<85950000> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1054907
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mosin9130<8d8bc790> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mosin9130'
+Entity id:1054931
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<85949150> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1054940
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<85951420> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1054993
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<85955080> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1054998
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<85955a90> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1055019
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<85953250> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1055023
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<85953c60> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1055035
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<85954670> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1055059
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<8d8c86d0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1055069
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<859564a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1055131
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<8d8c6090> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1055144
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh43Shotgun<8d8cad10> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Izh43Shotgun'
+Entity id:1055151
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<8d8cdce0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1055198
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mosin9130<8d8ce670> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mosin9130'
+Entity id:1055201
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<85952840> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1055245
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<8d8d4fa0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1055303
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<8d8cf990> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1055324
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Aug<8d8d1fd0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Aug'
+Entity id:1055347
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKM_Base<8d8d0320> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKM_Base'
+Entity id:1055386
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ61_Base<8d8d0cb0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ61_Base'
+Entity id:1055397
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad M16A2_Base<8d898040> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'M16A2_Base'
+Entity id:1055401
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<85956eb0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1055450
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<859578c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1055527
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<8d89e970> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1055670
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle_Gold<85950a10> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle_Gold'
+Entity id:1055678
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AugShort<8d89fc90> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AugShort'
+Entity id:1055696
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<8d8abbd0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1055803
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad LongHorn<8d8a52a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'LongHorn'
+Entity id:1055815
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<8d8aa8b0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1055960
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<85951e30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1055963
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad VSS<8d8ab240> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'VSS'
+Entity id:1055976
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mosin9130<8d8b1b70> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mosin9130'
+Entity id:1056015
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<8d8b2500> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1056084
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): Division by zero
+Class:      'TerritoryFlag'
+Entity id:1056128
+
+Function: 'CheckLoadedVariables'
+Stack trace:
+scripts/4_World/entities\itembase\basebuildingbase\totem.c:533
+scripts/4_World/entities\itembase\basebuildingbase\totem.c:139
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<8d8ae210> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1056166
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad LongHorn<8d8af530> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'LongHorn'
+Entity id:1056171
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<8d8acef0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1056196
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<8d8b54d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1056380
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<8d8b97c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1056394
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<8595f180> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1056431
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ61_Base<8f687680> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ61_Base'
+Entity id:1056563
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh43Shotgun<8f689cc0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Izh43Shotgun'
+Entity id:1056686
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<8595d350> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1056890
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<8f691910> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1056916
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<8f695270> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1056973
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FAMAS<8f695c00> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FAMAS'
+Entity id:1056986
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ61_Base<8f696590> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ61_Base'
+Entity id:1057023
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mosin9130<8f6948e0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mosin9130'
+Entity id:1057082
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MKII_Base<859596f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MKII_Base'
+Entity id:1057113
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh43Shotgun<8f698bd0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Izh43Shotgun'
+Entity id:1057140
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh18_Base<8f6935c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Izh18_Base'
+Entity id:1057157
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ61_Base<8f69d850> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ61_Base'
+Entity id:1057188
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<8f69eb70> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1057258
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<8f69b210> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1057259
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK74<8f69c530> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK74'
+Entity id:1057279
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKM_Base<8f6a1b40> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKM_Base'
+Entity id:1057327
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK74<8f6a7ae0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK74'
+Entity id:1057336
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK74<8f6a7150> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK74'
+Entity id:1057343
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<8f6a4b10> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1057357
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<8f6a11b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1057361
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKM_Base<8f6a4180> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKM_Base'
+Entity id:1057362
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<8f6a2e60> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1057373
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<8f6a67c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1057376
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<8f6a54a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1057410
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<8f6a5e30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1057413
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): Division by zero
+Class:      'TerritoryFlag'
+Entity id:1057418
+
+Function: 'CheckLoadedVariables'
+Stack trace:
+scripts/4_World/entities\itembase\basebuildingbase\totem.c:533
+scripts/4_World/entities\itembase\basebuildingbase\totem.c:139
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKM_Base<8f6a8470> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKM_Base'
+Entity id:1057464
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<8f6af730> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1057526
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<8f6ad0f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1057542
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK101<8f6b6060> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK101'
+Entity id:1057666
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad ASVAL<8f6b7d10> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'ASVAL'
+Entity id:1057674
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Aug<8f6b69f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Aug'
+Entity id:1057677
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FAMAS<8f6b2700> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FAMAS'
+Entity id:1057701
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<8f6b3090> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1057752
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Scout_Base<8f6ba350> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Scout_Base'
+Entity id:1057753
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ550_Base<8f6befd0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ550_Base'
+Entity id:1057769
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<8595a100> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1057830
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad M16A2_Base<91a829b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'M16A2_Base'
+Entity id:1057869
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<91a80d00> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1057898
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKM_Base<91a7f050> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKM_Base'
+Entity id:1057944
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<8595c940> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1057951
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK74<91a892e0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK74'
+Entity id:1058031
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<91a8c2b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1058075
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad ASVAL<91a85980> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'ASVAL'
+Entity id:1058077
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<8595b520> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1058085
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK101<91a8df60> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK101'
+Entity id:1058096
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKM_Base<91a8e8f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKM_Base'
+Entity id:1058102
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Saiga<91a90f30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Saiga'
+Entity id:1058105
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<8595bf30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1058117
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<91a95220> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1058141
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK74<91a918c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK74'
+Entity id:1058187
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<91a92250> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1058192
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<91a95bb0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1058240
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<8595ab10> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1058273
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<8595e770> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1058275
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle_Gold<8595dd60> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle_Gold'
+Entity id:1058284
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle_Gold<859582d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle_Gold'
+Entity id:1058288
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<8595fb90> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1058292
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<85958ce0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1058294
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<85966a40> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1058296
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<85967450> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1058299
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<91a96ed0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1058317
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK74<91a99510> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK74'
+Entity id:1058324
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK74<91a99ea0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK74'
+Entity id:1058327
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<859619c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1058394
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<85964200> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1058418
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<91aa07d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1058444
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<85960fb0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1058601
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mosin9130<91aa1160> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mosin9130'
+Entity id:1058629
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<859623d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1058715
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Aug<91aa1af0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Aug'
+Entity id:1058728
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<91a9d800> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1058746
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK74<91aa37a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK74'
+Entity id:1058778
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK101<91aa4130> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK101'
+Entity id:1058789
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<859605a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1058798
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh43Shotgun<91aa4ac0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Izh43Shotgun'
+Entity id:1058812
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<91aa9740> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1058876
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle_Gold<859637f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle_Gold'
+Entity id:1058914
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<85969280> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1058916
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<91aaf6e0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1059030
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh18_Base<91aaa0d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Izh18_Base'
+Entity id:1059050
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh18_Base<91ab26b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Izh18_Base'
+Entity id:1059078
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh18_Base<91ab1d20> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Izh18_Base'
+Entity id:1059081
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<85969c90> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1059155
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<91aac710> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1059162
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<91ab39d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1059204
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<91aada30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1059238
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MP5K_Base<91ab4cf0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MP5K_Base'
+Entity id:1059242
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<91aae3c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1059253
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad SVD_Base<91abb620> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'SVD_Base'
+Entity id:1059261
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<91ab7330> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1059263
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<85965620> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1059285
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad ASVAL<91ab8fe0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'ASVAL'
+Entity id:1059291
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<91ab9970> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1059310
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mosin9130<91aba300> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mosin9130'
+Entity id:1059374
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle_Gold<85964c10> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle_Gold'
+Entity id:1059439
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<91ab5680> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1059467
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<85966030> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1059503
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad LongHorn<91ab69a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'LongHorn'
+Entity id:1059523
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<91ab7cc0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1059524
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<94708a10> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1059558
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): Division by zero
+Class:      'TerritoryFlag'
+Entity id:1059562
+
+Function: 'CheckLoadedVariables'
+Stack trace:
+scripts/4_World/entities\itembase\basebuildingbase\totem.c:533
+scripts/4_World/entities\itembase\basebuildingbase\totem.c:139
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<85967e60> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1059617
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<9470cd00> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1059627
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<8596a6a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1059630
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<9470e9b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1059752
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<94710ff0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1059842
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<94711980> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1059864
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ61_Base<94717920> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ61_Base'
+Entity id:1059914
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<94716600> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1060011
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad LongHorn<947152e0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'LongHorn'
+Entity id:1060022
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<8596b0b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1060033
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Saiga<947195d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Saiga'
+Entity id:1060111
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<9471a8f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1060123
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<94713fc0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1060125
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<8596bac0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1060127
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<8596cee0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1060215
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<9471cf30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1060235
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<8596ed10> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1060236
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<94720890> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1060237
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<8596d8f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1060238
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<8596e300> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1060240
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<9471e250> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1060241
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<85968870> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1060242
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<94721220> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1060261
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<94722540> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1060267
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<9471ff00> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1060269
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<9471bc10> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1060277
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<970cb920> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1060285
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad LongHorn<9471c5a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'LongHorn'
+Entity id:1060327
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<94723860> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1060338
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ61_Base<94725510> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ61_Base'
+Entity id:1060383
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<9471ebe0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1060389
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<970caf10> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1060437
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mosin9130<94728e70> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mosin9130'
+Entity id:1060486
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh18_Base<9472ab20> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Izh18_Base'
+Entity id:1060514
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<9472b4b0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1060531
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<970cc330> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1060549
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh18_Base<9472c7d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Izh18_Base'
+Entity id:1060668
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ550_Base<947271c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ550_Base'
+Entity id:1060731
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<9472d160> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1060738
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<94729800> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1060745
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<9472a190> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1060759
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<94733a90> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1060817
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<970c5480> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1060833
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<970c68a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1060932
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh43Shotgun<94734420> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Izh43Shotgun'
+Entity id:1060959
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<94731450> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1060977
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<94734db0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1061021
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<970c72b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1061038
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh18_Base<94735740> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Izh18_Base'
+Entity id:1061103
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh18_Base<947360d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Izh18_Base'
+Entity id:1061149
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<970c7cc0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1061179
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<970ccd40> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1061207
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<970c9af0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1061214
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh43Shotgun<94732770> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Izh43Shotgun'
+Entity id:1061224
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<94730130> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1061246
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Engraved1911<970c5e90> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Engraved1911'
+Entity id:1061257
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<970cf580> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1061286
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<970cd750> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1061305
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ61_Base<94733100> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ61_Base'
+Entity id:1061319
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<970c90e0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1061323
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<94730ac0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1061329
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<970ce160> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1061341
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<94738710> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1061392
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad LongHorn<9473b6e0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'LongHorn'
+Entity id:1061421
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ61_Base<9473a3c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ61_Base'
+Entity id:1061447
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<9473dd20> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1061483
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AugShort<9473f9d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AugShort'
+Entity id:1061486
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad ASVAL<9473e6b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'ASVAL'
+Entity id:1061489
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad M16A2_Base<9473ad50> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'M16A2_Base'
+Entity id:1061491
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<9473c070> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1061492
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AugShort<9473ca00> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AugShort'
+Entity id:1061495
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Saiga<9473d390> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Saiga'
+Entity id:1061501
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad UMP45_Base<94739a30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'UMP45_Base'
+Entity id:1061507
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<970ca500> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1061511
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<9473f040> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1061513
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad SKS_Base<947390a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'SKS_Base'
+Entity id:1061515
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<94745970> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1061520
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh43Shotgun<94743330> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Izh43Shotgun'
+Entity id:1061524
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<94741680> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1061541
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<94740360> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1061549
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<94742010> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1061679
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<970ceb70> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1061752
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): Division by zero
+Class:      'TerritoryFlag'
+Entity id:1061761
+
+Function: 'CheckLoadedVariables'
+Stack trace:
+scripts/4_World/entities\itembase\basebuildingbase\totem.c:533
+scripts/4_World/entities\itembase\basebuildingbase\totem.c:139
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<94746c90> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1061844
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<970c86d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1061856
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<947429a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1061908
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<970d5010> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1061917
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<94747620> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1062105
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh43Shotgun<94740cf0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Izh43Shotgun'
+Entity id:1062148
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<970d3bf0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1062179
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<99341690> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1062225
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<993429b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1062244
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<9933e6c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1062362
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<970d09a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1062381
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad ASVAL<99343340> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'ASVAL'
+Entity id:1062420
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Scout_Base<9933f050> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Scout_Base'
+Entity id:1062434
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<970d5a20> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1062440
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<970d6e40> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1062442
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<970d27d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1062444
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<970d31e0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1062460
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Saiga<9933ca10> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Saiga'
+Entity id:1062475
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<970d1dc0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1062486
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad M4A1_Base<9933d3a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'M4A1_Base'
+Entity id:1062513
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<9933dd30> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1062538
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<9934a600> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1062541
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<970d6430> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1062555
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<99346ca0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1062560
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<99348950> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1062576
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<99347630> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1062578
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<970d8c70> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1062603
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Ruger1022_Base<99344ff0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Ruger1022_Base'
+Entity id:1062656
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad SKS_Base<9934c2b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'SKS_Base'
+Entity id:1062659
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<970da090> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1062675
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<970d9680> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1062685
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Scout_Base<99353f00> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Scout_Base'
+Entity id:1062772
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<970daaa0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1062783
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad SKS_Base<99353570> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'SKS_Base'
+Entity id:1062817
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Aug<9934d5d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Aug'
+Entity id:1062819
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<970db4b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1062820
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<993518c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1062822
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<970d4600> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1062823
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad SKS_Base<9934fc10> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'SKS_Base'
+Entity id:1062830
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad LongHorn<993505a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'LongHorn'
+Entity id:1062843
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<970dbec0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1062846
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad UMP45_Base<99350f30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'UMP45_Base'
+Entity id:1062855
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<970dc8d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1062879
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<99354890> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1062880
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<99355220> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1062887
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<99355bb0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1062896
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AK101<9934f280> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AK101'
+Entity id:1062900
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad M16A2_Base<9935bb50> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'M16A2_Base'
+Entity id:1062907
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<99358b80> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1062943
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Scout_Base<9935ce70> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Scout_Base'
+Entity id:1062944
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<970dd2e0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1062973
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<9935a830> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1062979
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<9935d800> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1063001
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Scout_Base<99356ed0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Scout_Base'
+Entity id:1063059
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<9935e190> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1063062
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad UMP45_Base<99359ea0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'UMP45_Base'
+Entity id:1063073
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad SVD_Base<99357860> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'SVD_Base'
+Entity id:1063088
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<9709f8c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1063122
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<9935b1c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1063149
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<9935f4b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1063163
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<99359510> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1063175
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<9935fe40> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1063192
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<993607d0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1063212
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<99361160> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1063217
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Engraved1911<9709e4a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Engraved1911'
+Entity id:1063228
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<9709d080> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1063231
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ550_Base<99361af0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ550_Base'
+Entity id:1063249
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad M16A2_Base<99365de0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'M16A2_Base'
+Entity id:1063259
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<970a02d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1063277
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<970a0ce0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1063282
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<99362e10> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1063301
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<99365450> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1063347
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<970a16f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1063353
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Repeater<99368420> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Repeater'
+Entity id:1063391
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh18_Base<9936a0d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Izh18_Base'
+Entity id:1063447
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<970a2100> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1063473
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad M16A2_Base<993637a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'M16A2_Base'
+Entity id:1063491
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad SKS_Base<99370070> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'SKS_Base'
+Entity id:1063508
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad VSS<9936bd80> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'VSS'
+Entity id:1063541
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ61_Base<9936b3f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ61_Base'
+Entity id:1063600
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<9936d0a0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1063622
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad UMP45_Base<9936da30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'UMP45_Base'
+Entity id:1063626
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<970a2b10> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1063629
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<9936e3c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1063640
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<9709eeb0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1063701
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<970a3f30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1063705
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<9936ed50> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1063716
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Saiga<99371390> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Saiga'
+Entity id:1063745
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<970a3520> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1063767
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad LongHorn<99371d20> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'LongHorn'
+Entity id:1063787
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<970a4940> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1063791
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<9709da90> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1063794
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Saiga<99378650> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Saiga'
+Entity id:1063803
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Winchester70_Base<993726b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Winchester70_Base'
+Entity id:1063836
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FAL_Base<993739d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FAL_Base'
+Entity id:1063878
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<970a8fb0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1063884
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<970a85a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1063931
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<970a99c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1063956
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Izh18_Base<99373040> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Izh18_Base'
+Entity id:1063995
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mosin9130<99377330> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mosin9130'
+Entity id:1064000
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<99379970> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1064016
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<970a5350> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1064024
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<99376010> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1064039
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<9937a300> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1064047
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<970a5d60> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1064054
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<970aa3d0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1064057
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FNX45_Base<970a7180> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FNX45_Base'
+Entity id:1064064
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<9937ac90> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1064070
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ61_Base<99374360> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ61_Base'
+Entity id:1064108
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MP5K_Base<9937b620> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MP5K_Base'
+Entity id:1064128
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<970a7b90> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1064134
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ550_Base<99374cf0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ550_Base'
+Entity id:1064141
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<9937bfb0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1064173
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AugShort<993769a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AugShort'
+Entity id:1064204
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<9c2bcd00> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1064218
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<970aade0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1064231
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<9c2b8a10> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1064337
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Glock19_Base<970ab7f0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Glock19_Base'
+Entity id:1064369
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad MakarovIJ70_Base<970ad620> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'MakarovIJ70_Base'
+Entity id:1064383
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ75_Base<970a6770> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ75_Base'
+Entity id:1064398
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<970ae030> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1064403
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<9c2b93a0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1064445
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<9c2b9d30> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1064457
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<970af450> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1064459
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Colt1911<970aea40> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Colt1911'
+Entity id:1064486
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Flaregun<9c2be020> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Flaregun'
+Entity id:1064535
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mp133Shotgun_Base<9c2ba6c0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mp133Shotgun_Base'
+Entity id:1064537
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Derringer_Base<9c2bb9e0> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'Derringer_Base'
+Entity id:1064554
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Deagle<970b1c90> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Deagle'
+Entity id:1064572
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad P1<970ac200> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'P1'
+Entity id:1064692
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FAL_Base<9c2c5c70> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FAL_Base'
+Entity id:1064818
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad M16A2_Base<9c2bfcd0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'M16A2_Base'
+Entity id:1064832
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad AKS74U<9c2bf340> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'AKS74U'
+Entity id:1064835
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad Mosin9130<9c2c6f90> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'Mosin9130'
+Entity id:1064837
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad SKS_Base<9c2c6600> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'SKS_Base'
+Entity id:1064840
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FAMAS<9c2c0660> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FAMAS'
+Entity id:1064844
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad B95<9c2c7920> trying to set muzzle index 2 while it only has 2 muzzles!
+Class:      'B95'
+Entity id:1064850
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<9c2cebe0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1064874
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad CZ527_Base<9c2ce250> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'CZ527_Base'
+Entity id:1064875
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad FAMAS<9c2c82b0> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'FAMAS'
+Entity id:1064876
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT    (E): 
+Weapon.OnStoreLoad PP19_Base<9c2cb280> trying to set muzzle index 2 while it only has 1 muzzles!
+Class:      'PP19_Base'
+Entity id:1064877
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:365
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=39
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: Izh18:014249 - JammedRepair - RSSEmpty<9ae7ed90> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: Repeater:013988 - JammedRepair - RPTEmptyDischarged<9abafd30> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:013088 parent=SurvivorM_Mirek:01 }
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: CZ75:014275 - JammedRepair - Pistol_CLO_DIS_BU0_MA0<9b042360> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: P1:013502 - JammedRepair - Pistol_CLO_DIS_BU0_MA0<998c2fb0> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: CZ75:014275 - JammedRepair - Pistol_CLO_DIS_BU0_MA0<9b042360> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: Winchester70:013389 - JammedRepair - BARIMEmptyDischarged<996e1f80> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: Winchester70:013389 - JammedRepair - BARIMEmptyDischarged<996e1f80> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: CZ527:013797 - JammedRepair - BAREM_CLO_BU0_MA0<9aa3e190> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: Mp133Shotgun:014431 - JammedRepair - PumpShotgunEmpty<91ba4140> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: P1:013502 - JammedRepair - Pistol_CLO_DIS_BU0_MA0<998c2fb0> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT       : [Logout]: New player OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= with logout time 10
+SCRIPT       : [emote] SurvivorM_Mirek:01 play emote id=14 IH=Mp133Shotgun:014431
+SCRIPT       : [Logout]: Player OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= finished
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: CZ61:011018 - JammedRepair - RBL_CLO_BU0_MA0<96ba5330> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: CZ61:011018 - JammedRepair - RBL_CLO_BU0_MA0<96ba5330> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: CZ61:011018 - JammedRepair - RBL_CLO_BU0_MA0<96ba5330> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=BloodBagEmpty:014431 parent=SurvivorM_Mirek:01 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Pajka:011202 parent=SurvivorM_Mirek:01 }
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: Deagle:012674 - JammedRepair - Pistol_CLO_DIS_BU0_MA0<98c40ae0> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: Deagle:012674 - JammedRepair - Pistol_CLO_DIS_BU0_MA0<98c40ae0> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT    (E): 
+[wpnfsm] ValidateAndRepair Attempting to repair: Deagle:012674 - JammedRepair - Pistol_CLO_DIS_BU0_MA0<98c40ae0> - state: 0 != weapon: 1731124150
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:237
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weapon_base.c:883
+scripts/4_World/entities\firearms\weapon_base.c:890
+scripts/4_World/entities\itembase.c:1177
+scripts/4_World/entities\firearms\weapon_base.c:959
+scripts/3_Game/entities\entityai.c:744
+scripts/4_World/entities\itembase.c:942
+scripts/4_World/entities\firearms\weapon_base.c:941
+SCRIPT       : [Logout]: New player OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= with logout time 10
+SCRIPT       : [emote] SurvivorM_Mirek:01 play emote id=14 IH=Mp133Shotgun:08688
+SCRIPT       : [Logout]: Player OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= finished
+SCRIPT       : ~DayZGame()

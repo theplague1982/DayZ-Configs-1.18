@@ -1,0 +1,303 @@
+
+
+=====================================================================
+== C:\Program Files (x86)\Steam\steamapps\common\DayZServer\DayZServer_x64.exe
+== "DayZServer_x64.exe"  -config=PlagueYiprit.cfg -port=2302 "-profiles= configYiprit" "-mod=@CF;@Community-Online-Tools;@Yiprit_alpha;@VanillaPlusPlusMap;@BulletStacksPlusPlusEnhanced;@SIX-DayZ-Auto-Run" cpuCount=2 -dologs -adminlog -netlog -freezecheckww
+=====================================================================
+Exe timestamp: 2022/07/28 13:58:17
+Current time:  2022/08/04 22:30:27
+
+Version 1.18.155069
+22:30:27.662 String "STR_server_shutdown" listed twice in "Global"
+22:30:27.678 Localization not present: STR_DATE_FORMAT_SHORT
+22:30:27.678 Localization not present: STR_TIME_FORMAT
+22:30:27.678 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+22:30:27.678 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+22:30:27.678 Localization not present: STR_MP_VALIDERROR
+22:30:27.678 Localization not present: STR_MP_CONNECTION_LOOSING
+22:30:27.678 Localization not present: STR_MSG_MP_NO_PASSWORD
+22:30:27.678 Localization not present: STR_MSG_LAUNCH_GAME
+22:30:27.678 Localization not present: STR_LOAD_INIT
+22:30:27.678 Localization not present: STR_LOAD_WORLD
+22:30:27.678 Localization not present: STR_LOAD_GAME
+22:30:27.678 Localization not present: STR_SAVE_GAME
+22:30:27.678 Localization not present: STR_MP_CONNECT
+22:30:27.678 Localization not present: STR_MP_DISCONNECT
+22:30:27.678 Localization not present: STR_MP_CONNECTING
+22:30:27.678 Localization not present: STR_MP_TIMEOUT
+22:30:27.678 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+22:30:27.678 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+22:30:27.679 Localization not present: STR_DATE_FORMAT_SHORT
+22:30:27.679 Localization not present: STR_TIME_FORMAT
+22:30:27.679 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+22:30:27.679 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+22:30:27.679 Localization not present: STR_MP_VALIDERROR
+22:30:27.679 Localization not present: STR_MP_CONNECTION_LOOSING
+22:30:27.679 Localization not present: STR_MSG_MP_NO_PASSWORD
+22:30:27.679 Localization not present: STR_MSG_LAUNCH_GAME
+22:30:27.679 Localization not present: STR_LOAD_INIT
+22:30:27.679 Localization not present: STR_LOAD_WORLD
+22:30:27.679 Localization not present: STR_LOAD_GAME
+22:30:27.679 Localization not present: STR_SAVE_GAME
+22:30:27.679 Localization not present: STR_MP_CONNECT
+22:30:27.679 Localization not present: STR_MP_DISCONNECT
+22:30:27.679 Localization not present: STR_MP_CONNECTING
+22:30:27.679 Localization not present: STR_MP_TIMEOUT
+22:30:27.679 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+22:30:27.679 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+22:30:27.689 Initializing stats manager.
+22:30:27.690 Stats config disabled.
+22:30:28.790 Warning Message: Addon 'JM_COT_Scripts' requires addon 'JM_CF_Scripts'
+22:30:37.108 Updating base class All->AllVehicles, by DZ\data\config.bin/CfgVehicles/Man/
+22:30:37.108 Updating base class Transport->AllVehicles, by DZ\data\config.bin/CfgVehicles/Air/
+22:30:37.144 Updating base class Name->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/Hill/
+22:30:37.144 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/ViewPoint/
+22:30:37.144 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/RockArea/
+22:30:37.144 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/BorderCrossing/
+22:30:37.144 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationBroadleaf/
+22:30:37.144 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationFir/
+22:30:37.144 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationPalm/
+22:30:37.144 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationVineyard/
+22:30:37.219 Updating base class ->Rifle_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1_Base/
+22:30:37.219 Updating base class ->M4A1_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1/
+22:30:37.224 Updating base class MapDefaults->, by JM\COT\GUI\config.bin/RscMapControl/
+22:30:37.466 Updating base class Weather->, by DZ\sounds\hpp\config.bin/CfgWorlds/CAWorld/Weather/
+22:30:37.496 Updating base class Ammo_Flare->Ammunition_Base, by BulletStacksPlusPlusEnhanced\config.cpp/CfgMagazines/Ammo_FlareBlue/
+22:30:37.496 Updating base class Ammo_Flare->Ammunition_Base, by BulletStacksPlusPlusEnhanced\config.cpp/CfgMagazines/Ammo_FlareRed/
+22:30:37.496 Updating base class Ammo_Flare->Ammunition_Base, by BulletStacksPlusPlusEnhanced\config.cpp/CfgMagazines/Ammo_FlareGreen/
+22:30:37.499 Updating base class ->Inventory_Base, by DZ\gear\tools\config.bin/CfgVehicles/Hammer/
+22:30:37.853 ENGINE    (W): No module info used, trying to identify -> 0xD2E60000
+
+22:30:37.853 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+
+22:30:37.908 [Inputs] Loading inputs default "bin/constants.xml"
+22:30:37.910 [Inputs] Loading inputs default "bin/specific.xml"
+22:30:37.911 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+22:30:37.911 !!! [Inputs] Cannot Register "UAObjectModuleDeleteOnCursor" non-existent input - Fix Preset!
+22:30:37.911 [Inputs] Loading inputs default "SIX_Autorun/Scripts/Inputs.xml"
+22:30:37.911 [Inputs] Loading inputs default "VanillaPPMap/data/modded_Inputs.xml"
+22:30:37.912 [Inputs] Loading inputs cfg "bin/core.xml"
+22:30:37.912 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+22:30:37.914 [Inputs] Exporting inputs cfg " configYiprit\Users\Survivor\Server.core.xml"
+22:30:38.247 SCRIPT    (E): @"JM/COT/Scripts/3_Game/communityonlinetools\staticfunctions.c,450": Can't find variable 'JMDate'
+
+22:30:38.247 SCRIPT    (E): @"JM/COT/Scripts/3_Game/communityonlinetools\config\configreader.c,192": Can't find variable '_cf_characters'
+
+22:30:38.255 SCRIPT    (E): Can't compile "Game" script module!
+
+JM/COT/Scripts/3_Game/communityonlinetools\staticfunctions.c(450): Can't find variable 'JMDate'
+
+22:30:44.693 SCRIPT    (E): Failed to load game scripts!
+
+22:30:44.693 ANIMATION (E): Can't load @SIX-DayZ-Auto-Run/Anims/cfg/skeletons.anim.xml
+
+22:30:44.693 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:30:44.693 ANIMATION (E): Can't load @BulletStacksPlusPlusEnhanced/Anims/cfg/skeletons.anim.xml
+
+22:30:44.693 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:30:44.693 ANIMATION (E): Can't load @VanillaPlusPlusMap/Anims/cfg/skeletons.anim.xml
+
+22:30:44.693 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:30:44.693 ANIMATION (E): Can't load @Yiprit_alpha/Anims/cfg/skeletons.anim.xml
+
+22:30:44.693 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:30:44.693 ANIMATION (E): Can't load @Community-Online-Tools/Anims/cfg/skeletons.anim.xml
+
+22:30:44.693 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:30:44.693 ANIMATION (E): Can't load @CF/Anims/cfg/skeletons.anim.xml
+
+22:30:44.693 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:30:44.693 ANIMATION (E): Can't load Bliss/Anims/cfg/skeletons.anim.xml
+
+22:30:44.693 ANIMATION (E): Failed to open file, line 0, column 0
+
+=======================================================
+-------------------------------------------------------
+Time: 22:30:44
+Exception code: C0000005 ACCESS_VIOLATION at D2F56CC3
+Allocator: system
+graphics:  No
+resolution:  160x120x32
+Addons:
+  DZ_Water_Bliss in DZ\water_bliss\, DZ_Animals_sus_scrofa in DZ\animals\sus_scrofa\
+  DZ_Spawn_Proxies in DZ\data\proxies\, DZ_Server_Data in DZ\server\
+  DZ_Structures_Rail in DZ\structures\rail\
+  DZ_Weapons_Firearms_AKM in DZ\weapons\firearms\akm\
+  DZ_Weapons_Firearms_M4 in DZ\weapons\firearms\m4\
+  DZ_Weapons_Firearms_CZ550 in DZ\weapons\firearms\cz550\
+  DZ_Weapons_Firearms_Winchester70 in DZ\weapons\firearms\winchester70\
+  DZ_Pistols_pmm in DZ\weapons\pistols\pmm\
+  DZ_Structures_Roads in DZ\structures\roads\, DZ_Rocks_Bliss in DZ\rocks_bliss\
+  DZ_Worlds_Enoch_Data in DZ\worlds\enoch\data\, DZ_AI in DZ\AI\
+  DZ_Animals in DZ\animals\, DZ_Structures_Walls in DZ\structures\walls\
+  DZ_UI in DZ\ui\, DZ_Weapons_Firearms_MosinNagant in DZ\weapons\firearms\mosin9130\
+  DZ_Pistols_DE in DZ\weapons\pistols\de\, Yiprit_Bridge in Yiprit_Bridge\
+  JM_COT_Objects_Debug in JM\COT\Objects\Debug\
+  DZ_Characters_Belts in DZ\characters\belts\
+  DZ_Characters_Shoes in DZ\characters\shoes\
+  DZ_Gear_Containers in DZ\gear\containers\, DZ_Gear_Drinks in DZ\gear\drinks\
+  DZ_Weapons_Archery_Bow_pvc in DZ\weapons\archery\bow_pvc\
+  DZ_Weapons_Firearms_Repeater in DZ\weapons\firearms\repeater\
+  DZ_Weapons_Shotguns_Izh43 in DZ\weapons\shotguns\izh43\
+  DZ_Worlds_Chernarusplus_World in DZ\worlds\chernarusplus\world\
+  LabAmbience in LabAmbience\, YourPatchesHere in Loadingscreen\
+  DZ_Animals_ovis_aries in DZ\animals\ovis_aries\
+  DZ_Characters_Zombies in DZ\characters\zombies\, DZ_Gear_Books in DZ\gear\books\
+  DZ_Gear_Crafting in DZ\gear\crafting\, DZ_ModuleZ in DZ\modulesDayz\
+  DZ_Weapons_Firearms_SKS in DZ\weapons\firearms\sks\
+  DZ_Weapons_Firearms_pm73rak in DZ\weapons\firearms\pm73rak\
+  DZ_Weapons_Melee in DZ\weapons\melee\
+  DZ_Nonlethal_Shockpistol in DZ\weapons\nonlethal\shockpistol\
+  DZ_Pistols_Red9 in DZ\weapons\pistols\red9\
+  DZ_Weapons_Magazines in DZ\weapons\attachments\magazine\, biomass in biomass\
+  DZ_Structures_Bliss_Ruins in DZ\structures_bliss\ruins\
+  DZ_Animals_ovis_aries_fem in DZ\animals\ovis_aries_fem\
+  DZ_Characters_Backpacks in DZ\characters\backpacks\
+  DZ_Gear_Camping in DZ\gear\camping\
+  DZ_Structures_Furniture in DZ\structures\furniture\
+  DZ_Structures_Military in DZ\structures\military\
+  DZ_Structures_Signs in DZ\structures\signs\
+  DZ_Weapons_Archery_Bow_Quickie in DZ\weapons\archery\bow_quickie\
+  DZ_Weapons_Firearms_AK74 in DZ\weapons\firearms\ak74\
+  DZ_Weapons_Firearms_cz61 in DZ\weapons\firearms\cz61\
+  DZ_Weapons_Launchers_M79 in DZ\weapons\launchers\m79\
+  DZ_weapons_nonlethal_DartGun in DZ\weapons\nonlethal\dartgun\
+  DZ_Pistols_FNX45 in DZ\weapons\pistols\fnx45\
+  DZ_Weapons_Supports in DZ\weapons\attachments\support\
+  SIX_Autorun in SIX_Autorun\, DZ_Worlds_Enoch_Navmesh in DZ\worlds\enoch\navmesh\
+  DZ_Animals_bos_taurus_fem in DZ\animals\bos_taurus_fem\
+  DZ_Characters_Vests in DZ\characters\vests\, DZ_Gear_Food in DZ\gear\food\
+  DZ_Structures_Specific in DZ\structures\specific\
+  DZ_Weapons_Archery_Crossbow in DZ\weapons\archery\crossbow\
+  DZ_Weapons_Firearms_aug in DZ\weapons\firearms\aug\
+  DZ_Weapons_Firearms_M16A2 in DZ\weapons\firearms\m16a2\
+  DZ_Pistols_CZ75 in DZ\weapons\pistols\cz75\
+  DZ_Weapons_Shotguns in DZ\weapons\shotguns\, DZ_Scripts in scripts\
+  VanillaPlusPlus in VanillaPPMap\, JM_COT_Scripts in JM\COT\Scripts\
+  DZ_Structures_Data_Bliss in DZ\structures_bliss\data\
+  DZ_Animals_capreolus_capreolus_fem in DZ\animals\capreolus_capreolus_fem\
+  DZ_Characters_Glasses in DZ\characters\glasses\, DZ_Radio in DZ\gear\radio\
+  DZ_Gear_Traps in DZ\gear\traps\, DZ_Water in DZ\water\
+  DZ_Weapons_Ammunition in DZ\weapons\ammunition\
+  DZ_Weapons_Firearms_B95 in DZ\weapons\firearms\b95\
+  DZ_Weapons_Firearms_SVD in DZ\weapons\firearms\svd\
+  DZ_Weapons_Firearms_Ruger1022 in DZ\weapons\firearms\ruger1022\
+  DZ_Weapons_Firearms_PP19 in DZ\weapons\firearms\pp19\
+  DZ_Weapons_Firearms_Trumpet in DZ\weapons\firearms\trumpet\
+  DZ_Weapons_Firearms_SaigaK in DZ\weapons\shotguns\saiga\
+  DZ_Structures_Bliss_Rail in DZ\structures_bliss\rail\
+  DZ_Structures_Bliss_Residential in DZ\structures_bliss\residential\
+  DZ_Animals_cervus_elaphus in DZ\animals\cervus_elaphus\
+  DZ_Animals_AnimConfig in DZ\animals\animconfig\
+  DZ_Animals_canis_lupus in DZ\animals\canis_lupus\
+  DZ_Anims_Anm_Player in DZ\anims\anm\player\
+  DZ_Weapons_Archery_Bow_Recurve in DZ\weapons\archery\bow_recurve\
+  DZ_Weapons_Firearms_groza in DZ\weapons\firearms\ots14\
+  DZ_Pistols_Glock in DZ\weapons\pistols\glock\, Yiprit in Yiprit_Fall\world\
+  DZ_Animals_capreolus_capreolus in DZ\animals\capreolus_capreolus\
+  DZ_Animals_sus_domesticus in DZ\animals\sus_domesticus\
+  DZ_Characters_Gloves in DZ\characters\gloves\
+  DZ_Vehicles_Wheeled in DZ\vehicles\wheeled\
+  DZ_Weapons_Animations in DZ\weapons\animations\
+  DZ_Weapons_Archery in DZ\weapons\archery\
+  DZ_Weapons_Firearms_IZH18 in DZ\weapons\firearms\izh18\
+  DZ_Weapons_Launchers in DZ\weapons\launchers\
+  DZ_Weapons_Melee_Powered in DZ\weapons\melee\powered\
+  DZ_Pistols_p1 in DZ\weapons\pistols\p1\
+  BulletStacksPlusPlusEnhanced in BulletStacksPlusPlusEnhanced\
+  Yiprit_navmesh in Yiprit_Fall\navmesh\
+  JM_COT_LanguageCore in JM\COT\languagecore\
+  DZ_Surfaces_Bliss in DZ\surfaces_bliss\
+  DZ_Animals_gallus_gallus_domesticus in DZ\animals\gallus_gallus_domesticus\
+  DZ_data_aiconfigs in DZ\data\aiconfigs\
+  DZ_Data_Data_ParticleEffects in DZ\data\data\particleeffects\
+  DZ_Gear_Cultivation in DZ\gear\cultivation\, DZ_Gear_Tools in DZ\gear\tools\
+  DZ_Structures in DZ\structures\data\
+  DZ_Structures_Residential in DZ\structures\residential\
+  DZ_Weapons_Explosives in DZ\weapons\explosives\
+  DZ_Weapons_Firearms_UMP in DZ\weapons\firearms\ump45\
+  DZ_Weapons_Firearms_MP5 in DZ\weapons\firearms\mp5\
+  DZ_Weapons_Firearms_VSS in DZ\weapons\firearms\vss\
+  DZ_Pistols_mkii in DZ\weapons\pistols\mkii\
+  DZ_Pistols_Encore in DZ\weapons\pistols\longhorn\
+  DZ_Worlds_ChernarusPlus_CE in DZ\worlds\chernarusplus\ce\
+  DZ_AI_Bliss in DZ\AI_bliss\
+  DZ_Animals_ursus_arctos in DZ\animals_bliss\ursus_arctos\
+  DZ_Structures_Bliss_Roads in DZ\structures_bliss\roads\
+  DZ_Structures_Bliss_Walls in DZ\structures_bliss\walls\
+  DZ_Animals_capra_hircus in DZ\animals\capra_hircus\
+  DZ_Characters_Tops in DZ\characters\tops\, DZ_Data in DZ\data\
+  DZ_Gear_Optics in DZ\gear\optics\, DZ_Rocks in DZ\rocks\
+  DZ_Structures_BuildingParts in DZ\structures\Proxy_BuildingParts\
+  DZ_Structures_Ruins in DZ\structures\ruins\, DZ_Surfaces in DZ\surfaces\
+  DZ_Weapons_Firearms_Famas in DZ\weapons\firearms\famas\
+  DZ_Weapons_Launchers_LAW in DZ\weapons\launchers\law\
+  DZ_Weapons_Launchers_GP25 in DZ\weapons\launchers\gp25\
+  DZ_Pistols_1911 in DZ\weapons\pistols\1911\
+  DZ_Pistols_Derringer in DZ\weapons\pistols\derringer\
+  DZ_data_aiconfigs_bliss in DZ\data_bliss\aiconfigs\
+  DZ_Plants_Bliss in DZ\plants_bliss\, DZ_Sounds_Bliss in DZ\sounds_bliss\
+  DZ_Worlds_Enoch_CE in DZ\worlds\enoch\ce\
+  DZ_Animals_gallus_gallus_domesticus_feminam in DZ\animals\gallus_gallus_domesticus_feminam\
+  DZ_Animals_capra_hircus_fem in DZ\animals\capra_hircus_fem\
+  DZ_Characters in DZ\characters\data\, DZ_Characters_Heads in DZ\characters\heads\
+  DZ_Characters_Masks in DZ\characters\masks\
+  DZ_Characters_Pants in DZ\characters\pants\
+  DZ_data_trackingconfigs in DZ\data\trackingconfigs\
+  DZ_Gear_Consumables in DZ\gear\consumables\, DZ_Gear_Medical in DZ\gear\medical\
+  DZ_Weapons_Firearms_Scout in DZ\weapons\firearms\scout\
+  DZ_Weapons_Firearms_M249Para in DZ\weapons\firearms\m249\
+  DZ_Weapons_Melee_Blunt in DZ\weapons\melee\blunt\
+  DZ_Weapons_Melee_Blade in DZ\weapons\melee\blade\
+  DZ_Pistols_Magnum in DZ\weapons\pistols\magnum\
+  DZ_Weapons_Attachments_Data in DZ\weapons\attachments\data\
+  DZ_Structures_Bliss_Wrecks in DZ\structures_bliss\wrecks\
+  DZ_Animals_bos_taurus in DZ\animals\bos_taurus\
+  DZ_Animals_cervus_elaphus_feminam in DZ\animals\cervus_elaphus_fem\
+  DZ_Anims_Cfg in DZ\anims\cfg\, DZ_Gear_Cooking in DZ\gear\cooking\
+  DZ_Sounds_Effects in DZ\sounds\hpp\
+  DZ_Weapons_Launchers_RPG7 in DZ\weapons\launchers\rpg7\
+  DZ_Nonlethal in DZ\weapons\nonlethal\
+  DZ_Pistols_Flaregun in DZ\weapons\pistols\flaregun\
+  DZ_Pistols in DZ\weapons\pistols\
+  DZ_Weapons_Projectiles in DZ\weapons\projectiles\, JM_COT_GUI in JM\COT\GUI\
+  DZ_Data_Bliss in DZ\data_bliss\
+  DZ_Structures_Bliss_Industrial in DZ\structures_bliss\industrial\
+  DZ_Structures_Bliss_Military in DZ\structures_bliss\military\
+  DZ_Structures_Bliss_Signs in DZ\structures_bliss\signs\
+  DZ_Sounds_Weapons in DZ\sounds\weapons\
+  DZ_Structures_Industrial in DZ\structures\industrial\
+  DZ_Weapons_Firearms_CZ527 in DZ\weapons\firearms\cz527\
+  DZ_Weapons_Firearms_AK101 in DZ\weapons\firearms\ak101\
+  DZ_Weapons_Misc in DZ\weapons\misc\
+  DZ_Weapons_Muzzles in DZ\weapons\attachments\muzzle\
+  Yiprit_data in Yiprit_Fall\data\, SPBuilding in SPBuilding\
+  DZ_Animals_Bliss in DZ\animals_bliss\
+  DZ_Structures_Bliss_Specific in DZ\structures_bliss\specific\
+  DZ_Worlds_Enoch in DZ\worlds\enoch\world\
+  DZ_Characters_Headgear in DZ\characters\headgear\
+  DZ_Gear_Navigation in DZ\gear\navigation\, DZ_Plants in DZ\plants\
+  DZ_Structures_Wrecks in DZ\structures\wrecks\
+  DZ_Vehicles_Parts in DZ\vehicles\parts\
+  DZ_Weapons_Firearms_FAL in DZ\weapons\firearms\fal\
+  DZ_Weapons_Firearms in DZ\weapons\firearms\
+  DZ_Weapons_Launchers_M203 in DZ\weapons\launchers\m203\
+  DZ_Pistols_pb6p9 in DZ\weapons\pistols\pb6p9\
+  DZ_Weapons_Shotguns_MP133 in DZ\weapons\shotguns\mp133\
+  DZ_Weapons_Lights in DZ\weapons\attachments\light\
+  DZ_Weapons_Optics in DZ\weapons\attachments\optics\
+Mods: @SIX-DayZ-Auto-Run
+Version 1.18.155069
+Fault address:  D2F56CC3 00:D2F56CC3 Unknown module
+file:     
+world:    ChernarusPlus
+Prev. code bytes: 45 8B 38 4C 8B F1 48 89 6C 24 40 48 85 DB 74 20
+Fault code bytes: 0F B6 03 48 8B D3 84 C0 74 16 0F 1F 00 6B F6 25
+=======================================================
+note: Minidump has been generated into the file  configYiprit\DayZServer_x64_2022-08-04_22-30-27_2022-08-04_22-30-44.mdmp

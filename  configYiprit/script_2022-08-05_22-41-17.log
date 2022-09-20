@@ -1,0 +1,32 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ configYiprit\script_2022-08-05_22-41-17.log started at 05.08. 22:41:17
+
+SCRIPT       : Registered 316 temporary action enum(s), UAN==316
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : DZM_Projects Map! by DaOne
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=BakedBeansCan:016093 parent=SurvivorM_Mirek:01 }
+SCRIPT       : [Logout]: New player OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= with logout time 10
+SCRIPT       : [emote] SurvivorM_Mirek:01 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player OrSsyqkr6kypCp_Xr5txVofb_hDf5XnmKnhnTeyL4f4= finished
+SCRIPT       : ~DayZGame()
