@@ -1,0 +1,75 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ configChiemsee\crash_2022-06-25_19-31-57.log started at 25.06. 19:42:59
+
+
+
+------------------------------------
+DESKTOP-O9A2AOE, 25.06 2022 19:42:59
+[DamageSystemData::GetMaxHealth] :: [Animal_chiemsee_scorpion] :: Could not find zone "Zone_Belly"
+Class:      'ActionSkinning'
+Function: 'OnFinishProgressServer'
+Stack trace:
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionskinning.c:214
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:216
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuoustime.c:53
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:66
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:363
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config PlagueChiemsee.cfg port 2302 profiles  configChiemsee mod @CF;@Community-Online-Tools;1580589252;@VanillaPlusPlusMap;@SIX-DayZ-Auto-Run;@BulletStacksPlusPlusEnhanced dologs  adminlog  netlog  freezecheckww  
+
+
+------------------------------------
+DESKTOP-O9A2AOE, 25.06 2022 19:43:42
+[DamageSystemData::GetMaxHealth] :: [Animal_chiemsee_scorpion] :: Could not find zone "Zone_Belly"
+Class:      'ActionSkinning'
+Function: 'OnFinishProgressServer'
+Stack trace:
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionskinning.c:214
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:216
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuoustime.c:53
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:66
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:363
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config PlagueChiemsee.cfg port 2302 profiles  configChiemsee mod @CF;@Community-Online-Tools;1580589252;@VanillaPlusPlusMap;@SIX-DayZ-Auto-Run;@BulletStacksPlusPlusEnhanced dologs  adminlog  netlog  freezecheckww  
+
+
+------------------------------------
+DESKTOP-O9A2AOE, 25.06 2022 19:43:56
+[DamageSystemData::GetMaxHealth] :: [Animal_chiemsee_scorpion] :: Could not find zone "Zone_Belly"
+Class:      'ActionSkinning'
+Function: 'OnFinishProgressServer'
+Stack trace:
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionskinning.c:214
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:216
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuoustime.c:53
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:66
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:363
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config PlagueChiemsee.cfg port 2302 profiles  configChiemsee mod @CF;@Community-Online-Tools;1580589252;@VanillaPlusPlusMap;@SIX-DayZ-Auto-Run;@BulletStacksPlusPlusEnhanced dologs  adminlog  netlog  freezecheckww  
+
+
+------------------------------------
+DESKTOP-O9A2AOE, 25.06 2022 19:44:11
+[DamageSystemData::GetMaxHealth] :: [Animal_chiemsee_scorpion] :: Could not find zone "Zone_Belly"
+Class:      'ActionSkinning'
+Function: 'OnFinishProgressServer'
+Stack trace:
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionskinning.c:214
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:216
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuoustime.c:53
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:66
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:363
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config PlagueChiemsee.cfg port 2302 profiles  configChiemsee mod @CF;@Community-Online-Tools;1580589252;@VanillaPlusPlusMap;@SIX-DayZ-Auto-Run;@BulletStacksPlusPlusEnhanced dologs  adminlog  netlog  freezecheckww  
