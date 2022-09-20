@@ -1,0 +1,13 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ configEseeker\crash_2022-08-19_09-33-13.log started at 19.08. 09:33:13
+
+
+
+------------------------------------
+BELL-WITCHPC454, 19.08 2022 09:33:13
+Can't compile "Game" script module!
+
+JM/COT/Scripts/3_Game/communityonlinetools\staticfunctions.c(450): Can't find variable 'JMDate'
+
+Runtime mode
+CLI params: config PlagueEseeker.cfg port 2302 profiles  configEseeker mod @CF;@Community-Online-Tools;@Esseker;@VanillaPlusPlusMap;@GoreZ;@Flying Birds!;@BulletStacksPlusPlusEnhanced;@DZR Disinfect by Boiling;@ItemSizeTweak;@SIX-DayZ-Auto-Run dologs  adminlog  netlog  freezecheckww  

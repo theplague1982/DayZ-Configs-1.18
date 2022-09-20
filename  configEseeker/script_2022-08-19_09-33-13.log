@@ -1,0 +1,10 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ configEseeker\script_2022-08-19_09-33-13.log started at 19.08. 09:33:13
+
+SCRIPT       : Registered 316 temporary action enum(s), UAN==316
+SCRIPT    (E): @"JM/COT/Scripts/3_Game/communityonlinetools\staticfunctions.c,450": Can't find variable 'JMDate'
+SCRIPT    (E): @"JM/COT/Scripts/3_Game/communityonlinetools\config\configreader.c,192": Can't find variable '_cf_characters'
+SCRIPT    (E): Can't compile "Game" script module!
+
+JM/COT/Scripts/3_Game/communityonlinetools\staticfunctions.c(450): Can't find variable 'JMDate'
+SCRIPT    (E): Failed to load game scripts!
